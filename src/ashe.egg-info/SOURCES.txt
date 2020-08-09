@@ -1,0 +1,5 @@
+setup.py
+src/ashe.egg-info/PKG-INFO
+src/ashe.egg-info/SOURCES.txt
+src/ashe.egg-info/dependency_links.txt
+src/ashe.egg-info/top_level.txt

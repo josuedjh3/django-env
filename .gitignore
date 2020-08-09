@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.pyc
+*.idea
+*.sqlite3
+node_modules
+public/static
+.python-version
+src/db.sqlite3
+.initialized
+*.map
+env_baseproject
+.vscode
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
